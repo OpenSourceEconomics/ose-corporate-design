@@ -1,7 +1,7 @@
 # ose-logos
 
-<p align="center">
-  <img width="850" height="225" src="logos/ose_bonn.pdf" alt="Open Source Economics logo chapter Bonn">
+<p align="left">
+  <img width="650" height="300" src="logos/ose_bonn.png" alt="Open Source Economics logo chapter Bonn">
 </p>
 
 
