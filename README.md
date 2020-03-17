@@ -8,6 +8,7 @@
 [Templates](#templates)  
 - [Presentations](#presentations)
 - [Papers](#papers)  
+
 [Logo](#logo)  
 [Color Codes](#color-codes)  
 [Merchandise](#merchandise)  
