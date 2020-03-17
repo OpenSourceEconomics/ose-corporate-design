@@ -25,6 +25,16 @@ However, a priori it is often the case that we do not know which native aspect r
 
 In that case, it may be appropriate to use an intermediate aspect ratio (see this [issue](https://github.com/josephwright/beamer/issues/497)). It minimizes the loss of available space while on average it looks good on nearly each projector. 
 
+**How to use the template**
+
+First, copy the complete [templates] folder into a new direction. In this folder, you will create your presentation. In case you need only a presentation, you might delete all other templates. Do not delete the [Images] folder as it includes the logo for the presentation title slide.
+
+Second, you should decide for your preferred aspect ratio (although you can adjust later). Take either [`Template_Presentation_4-3.tex`], [`Template_Presentation_16-9.tex`], or [`Template_Presentation_16-10.tex`]. Rename your file in a way that reflects the purpose of your presentation.
+
+Third, the file [`PresentationContent.tex`] provides you with all necessary commands to manufacture a modern and clean presentation. It is very convenient to use this file as a reference for commands. Hence, you could copy it and assmble your presentation within this file. Alternatively (and for a more structure approach), you can create new .tex-files and `\input{name_of_your_new_texfile}` them into your re-named "master-template". In any case, [`PresentationContent.tex`] serves as an incredible useful reference. 
+
+Fourth, compile and spread the word of Open Source Economics.
+
 
 ### [Papers](#templates)
 
