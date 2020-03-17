@@ -1,12 +1,26 @@
-# ose-logos
+# OSE Corporate Design
 
 <p align="center">
   <img width="500" height="196" src="logos/OSE_bonn_web.png" alt="Open Source Economics logo chapter Bonn">
 </p>
 
+# Table of Contents
+- [Templates](#templates)
+- [Logo](#logo)
+- [Color Codes](#color-codes)
+- [Merchandise](#merchandise)
 
-This repository contains the corporate design of the Open Source Economics initiative. The available logos are:
 
+## [Templates](#table-of-contents)
+
+In the following we will describe the usage of our templates for presentations, papers, conference posters, and CV's. The templates were designed by [Holger Gerhardt](https://github.com/HolgerGerhardt) and adjusted for the Open Source Economics initiative. We are very thankful for his support. 
+
+
+
+
+## [Logo](#table-of-contents) 
+
+The available logos are:
 - [OSE logo clean (without naming)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_clean.pdf)
 - [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) 
 - [OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_sbre.pdf)
@@ -14,7 +28,7 @@ This repository contains the corporate design of the Open Source Economics initi
 
 For online presence and any other visualization either the OSE logo [chapter Bonn (medium and light font, abbreviated mdli)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) or the OSE logo [neutral](add link) should be used. In cases where the font is too light the semi-bold and regular font version (abbreviated sbre) can be used.
 
-**Measurement of the logo**
+**Measurements of the logo**
 
 The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) has following measurements:
 - width: 242.6907 mm
@@ -27,10 +41,9 @@ The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourc
 - typo: 52pt ([IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans))
 
 
-Specifications for the corporate design
--------
 
-**Color codes for the corporate logo**
+## [Color Codes](#table-of-contents)
+
 
 **Font color** [OSEBlue (semi-dark blue)](https://www.color-hex.com/color/004c8d)
 - Hex: #004C8D
@@ -59,8 +72,8 @@ Specifications for the corporate design
 - RGB: 0/67/133
 
 
-Merchandise
----
+## [Merchandise](#table-of-contents)
+
 
 NEEDS TO BE BETTER!!!!
 
