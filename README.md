@@ -1,7 +1,7 @@
 # ose-logos
 
 <p align="center">
-  <img width="570" height="235" src="logos/OSE_bonn_web.png" alt="Open Source Economics logo chapter Bonn">
+  <img width="500" height="196" src="logos/OSE_bonn_web.png" alt="Open Source Economics logo chapter Bonn">
 </p>
 
 
@@ -10,7 +10,7 @@ This repository contains the corporate design of the Open Source Economics initi
 - [OSE logo clean (without naming)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_clean.pdf)
 - [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) 
 - [OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_sbre.pdf)
-- [OSE logo chapter Bonn mdli with name](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli_rafaelsuchy.pdf)
+- [OSE logo chapter Bonn (mdli with name)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli_rafaelsuchy.pdf)
 
 For online presence and any other visualization either the OSE logo [chapter Bonn (medium and light font, abbreviated mdli)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) or the OSE logo [neutral](add link) should be used. In cases where the font is too light the semi-bold and regular font version (abbreviated sbre) can be used.
 
@@ -58,3 +58,17 @@ Specifications for the corporate design
 - Hex: #004385
 - RGB: 0/67/133
 
+
+Merchandise
+---
+
+NEEDS TO BE BETTER!!!!
+
+To be connected with us, please take a look at our merchandise articles:
+
+<p float="left">
+  <img src="merchandise/OSE_shirt_grey_f_hq.jpg" width="200" />
+  <img src="merchandise/OSE_shirt_grey_b_hq.jpg" width="200" /> 
+  <img src="merchandise/OSE_shirt_white_f_lq.jpg" width="200" />
+  <img src="merchandise/OSE_shirt_white_b_lq.jpg" width="200" />
+</p>
