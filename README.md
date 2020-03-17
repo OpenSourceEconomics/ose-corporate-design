@@ -5,7 +5,9 @@
 </p>
 
 ## Table of Contents
-[Templates](#templates)   
+[Templates](#templates)  
+- [Presentations](#presentations)
+- [Papers](#papers)  
 [Logo](#logo)  
 [Color Codes](#color-codes)  
 [Merchandise](#merchandise)  
@@ -15,7 +17,17 @@
 
 In the following we will describe the usage of our templates for presentations, papers, conference posters, and CV's. The templates were designed by [Holger Gerhardt](https://github.com/HolgerGerhardt) and adjusted for the Open Source Economics initiative. We are very thankful for his support. 
 
+### [Presentations](#templates)
 
+In general, our presentations are assmbled in the format 16:9. 
+However, a priori it is often the case that we do not know which native aspect ratio is used by the projector at the host institution (either 4:3, 16:9, or 16:10). 
+
+In that case, it may be appropriate to use an intermediate aspect ratio (see this [issue](https://github.com/josephwright/beamer/issues/497)). It minimizes the loss of available space while on average it looks good on nearly each projector. 
+
+
+### [Papers](#templates)
+
+to be defined
 
 
 ## [Logo](#table-of-contents) 
