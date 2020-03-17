@@ -32,13 +32,13 @@ Specifications for the corporate design
 
 **Color codes for the corporate logo**
 
-**Font color**
+**Font color** [OSEBlue (semi-dark blue)](https://www.color-hex.com/color/004c8d)
 - Hex: #004C8D
 - RGB: 0/76/141
 
 **Logo colors** are presented from brightest to darkest
 
-[Light blue](https://www.color-hex.com/color/30bced)
+[OSEBlueLight (light blue)](https://www.color-hex.com/color/30bced)
 - Hex: #30BCED
 - RGB: 48/188/237
 
@@ -50,7 +50,7 @@ Specifications for the corporate design
 - Hex: #0C619F
 - RGB: 12/97/159
 
-[Semi-dark blue](https://www.color-hex.com/color/004c8d)
+[OSEBlue (semi-dark blue)](https://www.color-hex.com/color/004c8d)
 - Hex: #004C8D 
 - RGB: 0/76/141
 
