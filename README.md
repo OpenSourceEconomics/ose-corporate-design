@@ -97,10 +97,7 @@ The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourc
 
 ## [Merchandise](#table-of-contents)
 
-
-NEEDS TO BE BETTER!!!!
-
-To be connected with us, please take a look at our merchandise articles:
+As a professional organization we will build up our personal merchandise line. Below you will find the first two sample shirts. At the next ose-meetup those will be presented along with an order catalogue. There will be high-quality hoodies, half-zipper, and shirts available. Stay tuned. 
 
 <p float="left">
   <img src="merchandise/OSE_shirt_grey_f_hq.jpg" width="200" />
