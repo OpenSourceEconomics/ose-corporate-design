@@ -27,13 +27,13 @@ In that case, it may be appropriate to use an intermediate aspect ratio (see thi
 
 **How to use the template**
 
-First, copy the complete [templates](https://github.com/OpenSourceEconomics/ose-logos/tree/master/templates) folder into a new direction. In this folder, you will create your presentation. In case you need only a presentation, you might delete all other templates. Do not delete the [Images](https://github.com/OpenSourceEconomics/ose-logos/tree/master/templates/Images) folder as it includes the logo for the presentation title slide.
+First, copy the complete [templates](https://github.com/OpenSourceEconomics/ose-corporate-design/tree/master/templates) folder into a new direction. In this folder, you will create your presentation. In case you need only a presentation, you might delete all other templates. Do not delete the [Images](https://github.com/OpenSourceEconomics/ose-corporate-design/tree/master/templates/Images) folder as it includes the logo for the presentation title slide.
 
-Second, you should decide for your preferred aspect ratio (although you can adjust later). Take either [`Template_Presentation_4-3.tex`](https://github.com/OpenSourceEconomics/ose-logos/blob/master/templates/Template_Presentation_4-3.tex), [`Template_Presentation_14-9.tex`](https://github.com/OpenSourceEconomics/ose-logos/blob/master/templates/Template_Presentation_14-9.tex), [`Template_Presentation_16-9.tex`](https://github.com/OpenSourceEconomics/ose-logos/blob/master/templates/Template_Presentation_16-9.tex), or [`Template_Presentation_16-10.tex`](https://github.com/OpenSourceEconomics/ose-logos/blob/master/templates/Template_Presentation_16-10.tex). Rename your file in a way that reflects the purpose of your presentation.
+Second, you should decide for your preferred aspect ratio (although you can adjust later). Take either [`Template_Presentation_4-3.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Template_Presentation_4-3.tex), [`Template_Presentation_14-9.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Template_Presentation_14-9.tex), [`Template_Presentation_16-9.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Template_Presentation_16-9.tex), or [`Template_Presentation_16-10.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Template_Presentation_16-10.tex). Rename your file in a way that reflects the purpose of your presentation.
 
-Third, the file [`PresentationContent.tex`](https://github.com/OpenSourceEconomics/ose-logos/blob/master/templates/PresentationContent.tex) provides you with all necessary commands to manufacture a modern and clean presentation. It is very convenient to use this file as a reference for commands. Hence, you could copy it and assmble your presentation within this file. Alternatively (and for a more structure approach), you can create new .tex-files and `\input{name_of_your_new_texfile}` them into your re-named "master-template". In any case, [`PresentationContent.tex`](https://github.com/OpenSourceEconomics/ose-logos/blob/master/templates/PresentationContent.tex) serves as an incredible useful reference. 
+Third, the file [`PresentationContent.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/PresentationContent.tex) provides you with all necessary commands to manufacture a modern and clean presentation. It is very convenient to use this file as a reference for commands. Hence, you could copy it and assmble your presentation within this file. Alternatively (and for a more structure approach), you can create new .tex-files and `\input{name_of_your_new_texfile}` them into your re-named "master-template". In any case, [`PresentationContent.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/PresentationContent.tex) serves as an incredible useful reference. 
 
-Fourth, compile and spread the word of Open Source Economics. A complied version is accesible [here](https://github.com/OpenSourceEconomics/ose-logos/blob/master/templates/Images/Template_Presentation_16-9.pdf).
+Fourth, compile and spread the word of Open Source Economics. A complied version is accesible [here](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Images/Template_Presentation_16-9.pdf).
 
 
 ### [Papers](#templates)
@@ -44,21 +44,21 @@ to be defined
 ## [Logo](#table-of-contents) 
 
 The available logos are:
-- [OSE logo clean (without naming)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_clean.pdf)
-- [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) 
-- [OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_sbre.pdf)
-- [OSE logo chapter Bonn (mdli with name)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli_rafaelsuchy.pdf)
+- [OSE logo clean (without naming)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_clean.pdf)
+- [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli.pdf) 
+- [OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_sbre.pdf)
+- [OSE logo chapter Bonn (mdli with name)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli_rafaelsuchy.pdf)
 
-For online presence and any other visualization either the OSE logo [chapter Bonn (medium and light font, abbreviated mdli)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) or the OSE logo [neutral](add link) should be used. In cases where the font is too light the semi-bold and regular font version (abbreviated sbre) can be used.
+For online presence and any other visualization either the OSE logo [chapter Bonn (medium and light font, abbreviated mdli)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli.pdf) or the OSE logo [neutral](add link) should be used. In cases where the font is too light the semi-bold and regular font version (abbreviated sbre) can be used.
 
 **Measurements of the logo**
 
-The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_mdli.pdf) has following measurements:
+The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli.pdf) has following measurements:
 - width: 242.6907 mm
 - height: 95.2261 mm
 - typo: 52pt ([IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans))
 
-[OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-logos/blob/master/logos/OSE_bonn_sbre.pdf)
+[OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_sbre.pdf)
 - width: 244.2131 mm
 - height: 95.2261 mm
 - typo: 52pt ([IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans))
