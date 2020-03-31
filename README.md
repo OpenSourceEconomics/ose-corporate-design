@@ -46,6 +46,7 @@ to be defined
 The available logos are:
 - [OSE logo clean (without naming)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_clean.pdf)
 - [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli.pdf) 
+- [OSE logo chapter Bonn bw (medium and light font, black and white)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli_bw.pdf) 
 - [OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_sbre.pdf)
 - [OSE logo chapter Bonn (mdli with name)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli_rafaelsuchy.pdf)
 
