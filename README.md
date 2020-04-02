@@ -12,6 +12,7 @@
 [Logo](#logo)
 - [Font](#font)
 - [Color Codes](#color-codes)  
+
 [Merchandise](#merchandise)  
 
 
