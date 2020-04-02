@@ -9,8 +9,9 @@
 - [Presentations](#presentations)
 - [Papers](#papers)  
 
-[Logo](#logo)  
-[Color Codes](#color-codes)  
+[Logo](#logo)
+- [Font](#font)
+- [Color Codes](#color-codes)  
 [Merchandise](#merchandise)  
 
 
@@ -65,8 +66,12 @@ The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourc
 - typo: 52pt ([IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans))
 
 
+### [Font](#table-of-contents)
 
-## [Color Codes](#table-of-contents)
+The logo uses the font [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans), which can be implemented into LaTex via an `.sty` file. 
+For automatic generation of LaTex slides it is currently a recommended option to use the default LaTex font, since sometimes bugs may occur. However, for the best visual presentation [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) is the preferred choice.
+
+### [Color Codes](#table-of-contents)
 
 
 **Font color** [OSEBlue (semi-dark blue)](https://www.color-hex.com/color/004c8d)
