@@ -1,8 +1,11 @@
 # OSE Corporate Design
 
 <p align="center">
-  <img width="400" height="160" src="logos/OSE_bonn_web.png" alt="Open Source Economics logo chapter Bonn">
+  <img width="400" height="160" src="logos/OSE_logo_RGB.svg" alt="Open Source Economics logo chapter Bonn">
 </p>
+
+
+
 
 ## Table of Contents
 [Templates](#templates)  
