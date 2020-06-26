@@ -10,8 +10,8 @@
 ## Table of Contents
 [Templates](#templates)  
 - [Presentations](#presentations)
-<!-- - [Papers](#papers) -->
 - [CV](#cv)
+<!-- - [Papers](#papers) -->
 
 [Logo](#logo)
 - [Font](#font)
