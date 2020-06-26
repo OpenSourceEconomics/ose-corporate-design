@@ -11,6 +11,7 @@
 [Templates](#templates)  
 - [Presentations](#presentations)
 - [Papers](#papers)  
+- [CV](#cv)
 
 [Logo](#logo)
 - [Font](#font)
@@ -44,6 +45,11 @@ Fourth, compile and spread the word of Open Source Economics. A complied version
 ### [Papers](#templates)
 
 to be defined
+
+
+### [CV](#templates)
+
+A very neat and concise format for an academic CV is available under the templates folder. A compiled version can be accessed [here](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Template_CV.pdf).
 
 
 ## [Logo](#table-of-contents) 
