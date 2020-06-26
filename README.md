@@ -38,7 +38,7 @@ Second, you should decide for your preferred aspect ratio (although you can adju
 
 Third, the file [`PresentationContent.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/PresentationContent.tex) provides you with all necessary commands to manufacture a modern and clean presentation. It is very convenient to use this file as a reference for commands. Hence, you could copy it and assmble your presentation within this file. Alternatively (and for a more structure approach), you can create new .tex-files and `\input{name_of_your_new_texfile}` them into your re-named "master-template". In any case, [`PresentationContent.tex`](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/PresentationContent.tex) serves as an incredible useful reference. 
 
-Fourth, compile and spread the word of Open Source Economics. A complied version is accesible [here](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Images/Template_Presentation_16-9.pdf).
+Fourth, compile and spread the word of Open Source Economics. A complied version is accesible [here](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Template_Presentation_16-9.pdf).
 
 
 ### [Papers](#templates)
