@@ -1,0 +1,27 @@
+% !TeX document-id = {0fd09d57-8691-4508-a732-d54972616a79}
+% !TeX TXS-program:compile = txs:///pdflatex/
+% !BIB program = biber
+
+
+
+\documentclass[aspectratio=43, 10pt, t]{beamer}
+
+\input{0_0_Preamble/Preamble_Presentation}
+
+\makeatletter
+\newcommand{\Tw}{\strip@pt\textwidth}
+\makeatother
+\titlegraphic{%
+	\makebox(\Tw,0)[rt]{%
+		\makebox(\Tw,185.5)[rb]{%
+			\includegraphics[height=1.33cm]{Images/OSE_logo_RGB.pdf}\:%
+		}%
+	}%
+	\vspace{-10pt}%
+}
+
+\begin{document}
+
+\input{PresentationContent}
+
+\end{document}
