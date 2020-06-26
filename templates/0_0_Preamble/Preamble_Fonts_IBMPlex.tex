@@ -77,10 +77,11 @@
 %% <--
 % Save the font family and font series definitions for later use:
 % Use IBM Plex Serif as the text font -->
-\usepackage[semibold, scale=0.89]{plex-serif}
+\usepackage[scale=0.89]{plex-serif}  %\usepackage[semibold, scale=0.89]{plex-serif}
 % <--
+\newcommand{\rmmdseries}{text}
 \let \savermfamily   \rmdefault
-\let \savermmdseries \mddefault
+\let \savermmdseries \rmmdseries  %\mddefault
 \let \savermbfseries \bfdefault
 % <==
 

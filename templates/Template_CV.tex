@@ -191,7 +191,7 @@
 	%\usepackage[charter, greeklowercase=italicized, greekuppercase=italicized, sfscaled=false, ttscaled=false]{mathdesign}
 	%\usepackage[scaled=.96, lining, sups]{XCharter}  % option ``sups'' not working properly with subimport
 	\topiclabelfont{%
-		\small\sffamily\renewcommand{\bfseries}{\fontseries{medium}\selectfont}%
+		\small\sffamily\renewcommand{\bfseries}{\fontseries{semibold}\selectfont}%
 	}
 \fi
 
@@ -266,26 +266,26 @@
 
 \vspace{-\medskipamount}
 {%
-\ifxetex
-	\fontspec{\sansseriffont-Regular}[BoldFont={\sansseriffont-SemiBold}, WordSpace=0.85, LetterSpace=-2, Scale=0.875, Ligatures={TeX, Common}]
-\else
-	\sffamily
-\fi%
+	\ifxetex
+		\fontspec{\sansseriffont-Regular}[BoldFont={\sansseriffont-SemiBold}, WordSpace=0.85, LetterSpace=-2, Scale=0.875, Ligatures={TeX, Common}]
+	\else
+		\sffamily
+	\fi%
 	\noindent Postdoctoral Researcher, Institute for Applied Microeconomics \\
 	Lab Manager, Laboratory for Experimental Economics---BonnEconLab
 	
 	\medskip
-	\hspace{-15pt}%
-	\raisebox{-1.5pt}{%
-		\makebox(0,0)[rb]{%
-			\href{https://www.publicdomainpictures.net/en/view-image.php?image=236923&picture=cat-with-blue-eyes}{%
-				%\scalebox{-1}[1]{%
-					\includegraphics[height=27mm, trim=120mm 0mm 57.5mm 0mm, clip]{1_Example_Content/Images/cat-with-blue-eyes-15122819490rC.jpg}%
-				%}%
-			}%
-		}%
-	}%
-	\hspace{15pt}%
+	%	\hspace{-15pt}%
+	%	\raisebox{-1.5pt}{%
+	%		\makebox(0,0)[rb]{%
+	%			\href{https://www.publicdomainpictures.net/en/view-image.php?image=236923&picture=cat-with-blue-eyes}{%
+	%				%\scalebox{-1}[1]{%
+	%					\includegraphics[height=27mm, trim=120mm 0mm 57.5mm 0mm, clip]{1_Example_Content/Images/cat-with-blue-eyes-15122819490rC.jpg}%
+	%				%}%
+	%			}%
+	%		}%
+	%	}%
+	%	\hspace{15pt}%
 	\textbf{\color{SpotColor}University of Bonn, Germany}
 }
 \bigskip

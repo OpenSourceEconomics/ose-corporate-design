@@ -12,7 +12,7 @@
 \newcommand{\serifbodyfont}{0}
 % 0: Body is set in sans-serif font
 % 1: Body is set in serif font
-\newcommand{\serifheadingfont}{0}
+\newcommand{\serifheadingfont}{1}
 % 0: Headings (``structure'') are set in sans-serif font
 % 1: Headings (``structure'') are set in serif font
 
@@ -118,8 +118,13 @@
 \usefonttheme{structurebold}
 \usefonttheme{professionalfonts}
 
-\setbeamerfont{footline}
-	{parent=structure, size=\tiny, series=\mdseries}
+\ifnum \serifheadingfont=0
+	\setbeamerfont{footline}
+		{parent=structure, size=\tiny, series=\mdseries}
+\else
+	\setbeamerfont{footline}
+		{parent=structure, size=\tiny, series=\fontseries{\savermmdseries}}
+\fi
 \setbeamercolor{footline}
 	{fg=SpotColor}
 
@@ -172,8 +177,13 @@
 
 \setbeamerfont{title}
 	{parent=structure, size=\LARGE}
-\setbeamerfont{subtitle}
-	{parent=structure, size=\Large, series=\mdseries}
+\ifnum \serifheadingfont=0
+	\setbeamerfont{subtitle}
+		{parent=structure, size=\Large, series=\mdseries}
+\else
+	\setbeamerfont{subtitle}
+		{parent=structure, size=\Large, series=\fontseries{\savermmdseries}}
+\fi
 \setbeamerfont{frametitle}
 	{parent=structure, size=\large}
 
@@ -229,8 +239,9 @@
 
 \setbeamerfont{alerted text}{series=\bfseries}
 
-\definecolor{OSEBlue}	{RGB}{  0,  76, 141}
-\definecolor{OSEBlueLight}	{RGB}{ 48, 188, 237}
+\definecolor{OSEBlue}	  {RGB}{  0,  76, 141}
+%\definecolor{OSEBlueLight}{RGB}{ 48, 188, 237}
+\definecolor{OSEBlueLight}{RGB}{ 51, 153, 204}
 \definecolor{UBonnYellow} {RGB}{234, 185,  12}
 \definecolor{UBonnGray}   {RGB}{144, 144, 133}
 \definecolor{darkgray}    {RGB}{102, 102, 102}
@@ -285,7 +296,7 @@
 		\hspace{\marginleft}%
 		\sliderule \vspace{1.1ex} \linebreak
 		\mbox{\hspace{\marginleft}}%
-		\textmd{\insertshortauthor: \enquote{\insertshorttitle}}
+		\insertshortauthor: \enquote{\insertshorttitle}
 		\hfill%
 		\textbf{\insertframenumber/\inserttotalframenumber}%
 		\hspace{\marginright}%
@@ -447,8 +458,13 @@
 	{parent=normal text, size=\small, series=\mdseries, shape=\itshape}
 \setbeamercolor{institute}
 	{parent=normal text}
-\setbeamerfont{date}
-	{parent=structure, size=\normalsize, series=\bfseries}
+\ifnum \serifheadingfont=0
+	\setbeamerfont{date}
+		{parent=structure, size=\normalsize, series=\bfseries}
+\else
+	\setbeamerfont{date}
+		{parent=structure, size=\normalsize, series=\fontseries{semibold}}
+\fi
 \setbeamercolor{date}
 	{parent=normal text}
 
