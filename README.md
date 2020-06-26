@@ -1,7 +1,7 @@
 # OSE Corporate Design
 
 <p align="center">
-  <img width="400" height="160" src="logos/OSE_logo_RGB.svg" alt="Open Source Economics logo chapter Bonn">
+  <img width="400" src="logos/OSE_logo_RGB.svg" alt="Open Source Economics logo chapter Bonn">
 </p>
 
 
@@ -10,7 +10,7 @@
 ## Table of Contents
 [Templates](#templates)  
 - [Presentations](#presentations)
-- [Papers](#papers)  
+<!-- - [Papers](#papers) -->
 - [CV](#cv)
 
 [Logo](#logo)
@@ -42,10 +42,11 @@ Third, the file [`PresentationContent.tex`](https://github.com/OpenSourceEconomi
 Fourth, compile and spread the word of Open Source Economics. A complied version is accesible [here](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/templates/Template_Presentation_16-9.pdf).
 
 
+<!--
 ### [Papers](#templates)
 
 to be defined
-
+-->
 
 ### [CV](#templates)
 
@@ -54,15 +55,14 @@ A very neat and concise format for an academic CV is available under the templat
 
 ## [Logo](#table-of-contents) 
 
-The available logos are:
-- [OSE logo clean (without naming)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_clean.pdf)
-- [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli.pdf) 
-- [OSE logo chapter Bonn bw (medium and light font, black and white)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli_bw.pdf) 
-- [OSE logo chapter Bonn (semi-bold and regular font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_sbre.pdf)
-- [OSE logo chapter Bonn (mdli with name)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli_rafaelsuchy.pdf)
+The available logos are, among others:
+- [OSE logo](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_logo_RGB.pdf)
+- [OSE Bonn logo](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_Bonn_logo_RGB.pdf)
+- [OSE Bonn without any type](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_logo_no_type_RGB.pdf)
 
-For online presence and any other visualization either the OSE logo [chapter Bonn (medium and light font, abbreviated mdli)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli.pdf) or the OSE logo [neutral](add link) should be used. In cases where the font is too light the semi-bold and regular font version (abbreviated sbre) can be used.
+Grayscale and SVG versions are also available. For web pages, please use the [SVG version](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_Bonn_logo_RGB.svg).
 
+<!--
 **Measurements of the logo**
 
 The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourceEconomics/ose-corporate-design/blob/master/logos/OSE_bonn_mdli.pdf) has following measurements:
@@ -74,12 +74,12 @@ The [OSE logo chapter Bonn (medium and light font)](https://github.com/OpenSourc
 - width: 244.2131 mm
 - height: 95.2261 mm
 - typo: 52pt ([IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans))
-
+-->
 
 ### [Font](#table-of-contents)
 
 The logo uses the font [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans), which can be implemented into LaTex via an `.sty` file. 
-For automatic generation of LaTex slides it is currently a recommended option to use the default LaTex font, since sometimes bugs may occur. However, for the best visual presentation [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) is the preferred choice.
+For automatic generation of LaTeX slides it is currently a recommended option to use the default LaTeX font, since sometimes bugs may occur. However, for the best visual presentation [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans) is the preferred choice.
 
 ### [Color Codes](#table-of-contents)
 
