@@ -84,7 +84,9 @@ For automatic generation of LaTeX slides it is currently a recommended option to
 ### [Color Codes](#table-of-contents)
 
 
-**Font color** [OSEBlue (semi-dark blue)](https://www.color-hex.com/color/004c8d)
+**Font color** 
+
+[OSEBlue (semi-dark blue)](https://www.color-hex.com/color/004c8d)
 - Hex: #004C8D
 - RGB: 0/76/141
 
@@ -113,7 +115,7 @@ For automatic generation of LaTeX slides it is currently a recommended option to
 
 ## [Merchandise](#table-of-contents)
 
-As a professional organization we will build up our personal merchandise line. Below you will find the first two sample shirts. At the next ose-meetup those will be presented along with an order catalogue. There will be high-quality hoodies, half-zipper, and shirts available. Stay tuned. 
+Below you can find two sample shirts. At the next [OSE-meetup](https://github.com/OpenSourceEconomics/ose-meetup) those will be presented along with an order catalogue. High-quality hoodies, half-zipper, and shirts will be available for order.
 
 <p float="left">
   <img src="merchandise/OSE_shirt_grey_f_hq.jpg" width="200" />
